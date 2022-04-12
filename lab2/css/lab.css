@@ -1,0 +1,26 @@
+h1 {
+  color: #687389;
+  font-family: monospace;
+  font-size: 150%
+}
+
+p#about-me {
+  font-family: monospace;
+  text-indent: 15px;
+  margin: 10px;
+  line-height: 15px;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+#content {
+  background-color: #E6E6FA;
+  width: 300px;
+  height: auto;
+  border: dotted #97A3BB;
+}
+
+p#credit {
+  font-family: monospace;
+  font-size: 10px;
+}

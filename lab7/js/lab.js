@@ -18,7 +18,6 @@ function sortWord () {
   // sort the array back into a string of letters
   var wordSorted = wordArraySort.join('');
   console.log("wordSorted =", wordSorted);
-  }
   return wordSorted;
 }
 

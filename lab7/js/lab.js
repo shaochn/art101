@@ -23,4 +23,4 @@ function sortWord () {
 
 // output
 document.writeln("And your new word is...",
-  sortChosenWord(), "</br>");
+  sortWord(), "</br>");

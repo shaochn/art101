@@ -19,7 +19,9 @@ console.log("My array: ", array);
 
 var result = array.map(square);
 // should give out the output of the squared numbers in the array, in order
-console.log("The results: ", result);
+setTimeout(function() {
+  console.log("The results: ", result);
+}, 3000);
 
 var result = array.map(function(x){
     var results = x/2

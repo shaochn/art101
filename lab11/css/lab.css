@@ -1,0 +1,27 @@
+#content {
+  background-color: lavender;
+  width: 500px;
+  height: auto;
+  border: dotted #97A3BB;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
+.special {
+  background-color: #000;
+  color: #FFFFFF
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.yoYo {
+  background-color: #3B568F;
+  color: #FFF
+}

@@ -1,0 +1,16 @@
+#content {
+  background-color: lavender;
+  width: 500px;
+  height: auto;
+  border: dotted #97A3BB;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-top: 20px;
+  padding-bottom: 50px;
+  margin: auto;
+}
+
+#output {
+  min-height: 100px;
+  border: solid 1px red;
+}

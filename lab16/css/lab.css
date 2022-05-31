@@ -1,0 +1,50 @@
+#content {
+  background-color: lavender;
+  width: 500px;
+  height: auto;
+  border: dotted #97A3BB;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-top: 20px;
+  padding-bottom: 50px;
+  margin: auto;
+}
+
+
+#output{
+  background-color: #000
+  border: solid #000;
+  margin-top: 10px;
+  padding-left: 5px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  width: inherit;
+}
+
+ul{
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+}
+
+li{
+  text-align: -webkit-match-parents;
+}
+
+ul.comicNav li a{
+  background-color: #000
+  color: #FFF;
+  border: 1.5px dotted #000;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 1.5px 12px;
+  margin: 0 4px;
+  text-decoration: none;
+}
+ul.comicNav{
+  padding-left: 0px;
+  list-style-type: none;
+}

@@ -34,17 +34,7 @@ li{
   text-align: -webkit-match-parents;
 }
 
-ul.comicNav li a{
-  background-color: #000
-  color: #FFF;
-  border: 1.5px dotted #000;
-  font-size: 16px;
-  font-weight: 600;
-  padding: 1.5px 12px;
-  margin: 0 4px;
-  text-decoration: none;
-}
-ul.comicNav{
-  padding-left: 0px;
+ul.comicAll{
+  margin: auto;
   list-style-type: none;
 }
